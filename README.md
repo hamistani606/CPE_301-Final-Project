@@ -2,7 +2,7 @@
 
 Evaporation Cooling System (Swamp Cooler)
 
-Description: Designed and implemented an Arduino-based evaporation cooling system that monitors temperature, humidity, and water levels to control a fan motor and vent direction. The system transitions through different states such as IDLE, RUNNING, ERROR, and DISABLED, based on sensor input. Features include:
+Designed and implemented an Arduino-based evaporation cooling system that monitors temperature, humidity, and water levels to control a fan motor and vent direction. The system transitions through different states such as IDLE, RUNNING, ERROR, and DISABLED, based on sensor input. Features include:
 
 Real-time clock integration for tracking motor events and state transitions.
 LCD display for system status updates and alerts.
